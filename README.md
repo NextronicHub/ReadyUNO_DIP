@@ -4,16 +4,16 @@ READY-UNO is the best board to start your personal electronics projects, it is b
 The READY-UNO can be programmed over a Serial Communication, using the ARDUINO IDE.
 The READY-UNO can be powered through the barrel jack. The on-board power regulator can handle anything from 7 to 15VDC.
 ## Features
-•	ATmega328 microcontroller with Optiboot (UNO) Bootloader
+•	ATmega328 microcontroller with Optiboot (UNO) Bootloader                                                                         
 •	Input voltage : 7 to 15V                                                                                                         
-•	0-5V outputs
-•	14 Digital I/O Pins (6 PWM outputs)
-•	6 Analog Inputs
-•	ISP Header
-•	32k Flash Memory
-•	16MHz Clock Speed
-•	All SMD Construction
-•	R3 Shield Compatible
-•	BreadBoard.
-•	Red PCB.
-•	I2C, UART and SPI.
+•	0-5V outputs                                                                                                                     
+•	14 Digital I/O Pins (6 PWM outputs)                                                                                              
+•	6 Analog Inputs                                                                                                                  
+•	ISP Header                                                                                                                       
+•	32k Flash Memory                                                                                                                 
+•	16MHz Clock Speed                                                                                                                
+•	All SMD Construction                                                                                                             
+•	R3 Shield Compatible                                                                                                             
+•	BreadBoard.                                                                                                                      
+•	Red PCB.                                                                                                                         
+•	I2C, UART and SPI.                                                                                                               
