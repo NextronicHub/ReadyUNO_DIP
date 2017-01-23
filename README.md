@@ -5,7 +5,7 @@ The READY-UNO can be programmed over a Serial Communication, using the ARDUINO I
 The READY-UNO can be powered through the barrel jack. The on-board power regulator can handle anything from 7 to 15VDC.
 ## Features
 •	ATmega328 microcontroller with Optiboot (UNO) Bootloader
-•	Input voltage : 7 to 15V
+•	Input voltage : 7 to 15V                                                                                                         
 •	0-5V outputs
 •	14 Digital I/O Pins (6 PWM outputs)
 •	6 Analog Inputs
