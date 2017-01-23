@@ -17,3 +17,15 @@ The READY-UNO can be powered through the barrel jack. The on-board power regulat
 •	BreadBoard.                                                                                                                      
 •	Red PCB.                                                                                                                         
 •	I2C, UART and SPI.                                                                                                               
+## Repository Contents
+
+/Hardware - Design files (.brd, .sch)  
+/Documentation - datasheet and examples
+
+## Product Versions
+
+ReadyUNO-DIP-V1 first release
+
+## License Information
+
+The hardware is released under [Creative Commons ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
